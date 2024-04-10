@@ -9,5 +9,6 @@ Reference :
  - http://elm-chan.org/docs/mmc/mmc_e.html
  - https://github.com/eziya
 <br>
-![NUCLEO-H745](./IMG_NUCLEO-H745-ZI.jpg) <br>
+![NUCLEO-H745](https://github.com/ku100-png/NUCLEO-H745ZI-Q_SPI_SDCARD/blob/main/IMG_NUCLEO-H745-ZI.jpg) <br>
 <br>
+For connect SD-card used 6-pin dual-row header on Adafruit 1.8" TFT Shield V2.
