@@ -2,7 +2,7 @@
 Example of connecting an SD-card to NUCLEO-U745ZI-Q board via SPI. <br>
 <br>
 Release on NUCLEO-H745ZI-Q board with FatFS + SD Card via SPI1 interface. <br>
-The project generated in Cube-MX program. Cube-MX project inside. <br>
+The project generated in Cube-MX program for Keil MDK-ARM IDE. Cube-MX project inside. <br>
 Added two files: fatfs_sd.c and fatfs_sd.h from https://github.com/eziya <br>
 <br>
 Reference : 
