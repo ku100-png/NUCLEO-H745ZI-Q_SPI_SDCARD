@@ -9,10 +9,9 @@ Reference :
  - http://elm-chan.org/docs/mmc/mmc_e.html
  - https://github.com/eziya
 <br>
-```python
 
-![NUCLEO-H745](https://github.com/ku100-png/NUCLEO-H745ZI-Q_SPI_SDCARD/raw/main/IMG_NUCLEO-H745-ZI.jpg) <br>
-```
+![NUCLEO-H745](https://github.com/ku100-png/NUCLEO-H745ZI-Q_SPI_SDCARD/blob/main/NUCLEO-H745.jpg)
+
 <br>
 For connect SD-card use 6-pin dual-row header on Adafruit 1.8" TFT Shield V2. It requires 3 wires to be run
 to the appropriate digital I/O pins to route SPI from the Nucleo to the the SD card. Solder them to the
